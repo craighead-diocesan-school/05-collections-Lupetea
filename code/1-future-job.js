@@ -10,7 +10,7 @@ let jobs = [
 ]
 
 function getJob() {
-  let index = 0
+  let index = 3
 
-  alert('Your future job will be' + jobs[0])
+  alert('Your future job will be' + jobs[3])
 }
